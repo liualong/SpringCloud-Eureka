@@ -11,6 +11,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
  * @author         Mashuai
  * @Date           2018年8月22日 下午2:22:42
  * @Email          1119616605@qq.com
+ *     测试更新
  */
 @EnableEurekaServer
 @SpringBootApplication
